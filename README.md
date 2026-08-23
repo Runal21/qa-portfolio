@@ -28,12 +28,3 @@ Personal portfolio website showcasing software quality assurance, manual testing
 - Predictive classification model built with Python (Scikit-Learn, Pandas) to forecast equipment downtime.
 
 ---
-
-## 🚀 Local Development Setup
-
-To run or edit this portfolio locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Runal21/Runal21.github.io.git](https://github.com/Runal21/Runal21.github.io.git)
-   cd Runal21.github.io
