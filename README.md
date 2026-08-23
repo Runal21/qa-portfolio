@@ -2,8 +2,6 @@
 
 Personal portfolio website showcasing software quality assurance, manual testing workflows, API validation, and data analytics projects.
 
-🔗 **Live Demo:** [https://Runal21.github.io](https://Runal21.github.io)
-
 ---
 
 ## 🛠️ Tech Stack & Tools
